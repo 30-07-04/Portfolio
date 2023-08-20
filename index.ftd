@@ -124,7 +124,7 @@ link: https://instagram.com/itz_srabany_04?igshid=NGExMmI2YTkyZg==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:srabanybiswas@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -226,7 +226,7 @@ link: https://instagram.com/itz_srabany_04?igshid=NGExMmI2YTkyZg==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:srabanybiswas@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
